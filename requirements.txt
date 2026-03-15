@@ -1,2 +1,2 @@
-ChatterBot>=1.0.0,<1.2.0
+ChatterBot>=1.2.10,<1.3.0
 SpeechRecognition>=3.3.3
